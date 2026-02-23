@@ -116,7 +116,7 @@ If you appreciate this repository and want to show your support, you can do so t
 | **[Insane CTF](#insane-ctf)**                    |      1       |            0                |
 | **[Misc](#misc)**                                |     43       |                             |
 | **[Special Events](#special-events)**            |     12       |            0                |
-| **Total Rooms:**                                 |    **= 502** |          **= 0 **           |
+| **Total Rooms:**                                 |    **= 502** |          **= 0**            |
 
 ---
 
